@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vedant Saikhede</h1>
+<h3 align="center">Cloud and DevOps Enthusiast</h3>
 
-<!--
-**VedantSaikhede/VedantSaikhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,aws,gcp,azure,py,linux,css,html,docker,eclipse," />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,js,mongodb,ps,vscode," />
+    
+  </a>
+</p>
+<h3 align="center">Links</h3>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
+
+- [Linkedin](https://www.linkedin.com/in/vedant-saikhede-a94a2a21b/)
+
+
+
+
+
+
+
+
+
