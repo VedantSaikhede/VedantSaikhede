@@ -26,14 +26,18 @@
   
 <h3 align="center">Projects</h3>
 
-[<img src="https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(790).png" width="300">](https://github.com/VedantSaikhede/JavaFx_Project)
-[**JavaFx_Project**](https://github.com/VedantSaikhede/JavaFx_Project)
+<div align="center">
 
-[<img src="https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Screenshot/Screenshot%20(676).png" width="300">](https://github.com/VedantSaikhede/iNeuron_Internship_Project)
-[**iNeuron_Internship_Project**](https://github.com/VedantSaikhede/iNeuron_Internship_Project)
+[<img src="https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(790).png" width="200">](https://github.com/VedantSaikhede/JavaFx_Project) [**JavaFx_Project**](https://github.com/VedantSaikhede/JavaFx_Project)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img src="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(776).png" width="300">](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight)
-[**Visualize_Data_using_Amazon_QuickSight**](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight)
+[<img src="https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Screenshot/Screenshot%20(676).png" width="200">](https://github.com/VedantSaikhede/iNeuron_Internship_Project) [**iNeuron_Internship_Project**](https://github.com/VedantSaikhede/iNeuron_Internship_Project)
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+[<img src="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(776).png" width="200">](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight) [**Visualize_Data_using_Amazon_QuickSight**](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight)
+
+</div>
+
 
 
 
