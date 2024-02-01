@@ -2,7 +2,6 @@
 <h3 align="center">Cloud and DevOps Enthusiast</h3>
 
 
-<p align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,13 +11,22 @@
     
   </a>
 </p>
+
+
+
 <h3 align="center">Links</h3>
+<div align="center">
 
+[![Leetcode](https://img.shields.io/badge/Leetcode-black?style=flat&logo=leetcode)](https://leetcode.com/vedant_saikhede/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-saikhede-a94a2a21b/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/VedantSaikhede)
 
+</div>
 
+  
+<h3 align="center">Projects</h3>
 
-
-
+[![Project 1](https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(790).png)](https://github.com/VedantSaikhede/JavaFx_Project) [![Project 2](https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Screenshot/Screenshot%20(676).png)](https://github.com/VedantSaikhede/iNeuron_Internship_Project) [![Project 3](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(776).png)](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight)
 
 
 
