@@ -13,12 +13,8 @@
   </a>
 </p>
 <h3 align="center">Links</h3>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
 
-- [Linkedin](https://www.linkedin.com/in/vedant-saikhede-a94a2a21b/)
+
 
 
 
