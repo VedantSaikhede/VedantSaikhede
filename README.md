@@ -3,7 +3,7 @@
 
 <p align="justify">
   
-Hello, I'm Vedant Saikhede, an Information Technology student at Savitribai Phule Pune University with a CGPA of 8.89. Beyond academics, I'm a DevOps and Cloud Enthusiast, Photographer, and Badminton player. Interning at iNeuron, I worked on a Heart Disease Diagnostic Analysis project, showcasing skills in Python, Data Analysis and BI. Experienced in C/C++, Java, Python, AWS, and more, I specialize in Data Structures, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Databases, Software Testing and DevOps Tools.
+Hello, I'm Vedant Saikhede, an Information Technology student at Savitribai Phule Pune University with a CGPA of 8.89. Beyond academics, I'm a DevOps and Cloud Enthusiast, Photographer, and Badminton player. Interning at iNeuron, I worked on a Heart Disease Diagnostic Analysis project, showcasing skills in Python, Data Analysis and BI. Experienced in C/C++, Java, Python, AWS, and more, I specialize in Data Structures, Databases, Software Testing and DevOps Tools.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
