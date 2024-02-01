@@ -35,17 +35,15 @@
 [<img src="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(776).png" width="300">](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight) &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<div style="align-items: center; text-align: center; width: 100%;">
-
-  <div style="flex: right;">
-    <a href="https://github.com/VedantSaikhede/JavaFx_Project">Web browser using JavaFX</a>
-    <a href="https://github.com/VedantSaikhede/iNeuron_Internship_Project">Heart Disease Diagnostic Analysis</a>
-    <a href="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight">Visualize Data using Amazon QuickSight</a>
-  </div>
+<p>
+   &nbsp;&nbsp;&nbsp; <a href="https://github.com/VedantSaikhede/JavaFx_Project">Web browser using JavaFX</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/VedantSaikhede/iNeuron_Internship_Project">Heart Disease Diagnostic Analysis</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight">Visualize Data using Amazon QuickSight</a>
+</p>
 
 
 
-</div>
+
 
 
 
