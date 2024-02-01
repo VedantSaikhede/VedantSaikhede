@@ -30,11 +30,35 @@
 
 # Projects
 
-[<img src="https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(790).png" width="200">](https://github.com/VedantSaikhede/JavaFx_Project) [**Web browser using JavaFX**](https://github.com/VedantSaikhede/JavaFx_Project) &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Screenshot/Screenshot%20(676).png" width="200">](https://github.com/VedantSaikhede/iNeuron_Internship_Project) [**Heart Disease Diagnostic Analysis**](https://github.com/VedantSaikhede/iNeuron_Internship_Project) &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(776).png" width="200">](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight) [**Visualize Data using Amazon QuickSight**](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight)
-
+[<img src="https://github.com/VedantSaikhede/JavaFx_Project/blob/main/Screenshot/Screenshot%20(790).png" width="250">](https://github.com/VedantSaikhede/JavaFx_Project) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/VedantSaikhede/iNeuron_Internship_Project/blob/main/Screenshot/Screenshot%20(676).png" width="250">](https://github.com/VedantSaikhede/iNeuron_Internship_Project) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight/blob/main/Screenshot/Screenshot%20(776).png" width="250">](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight) &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<div align="center">
+<div align="left">
+  
+  [**Web browser using JavaFX**](https://github.com/VedantSaikhede/JavaFx_Project)
+  
+</div>
+
+<div align="center">
+  
+ [**Heart Disease Diagnostic Analysis**](https://github.com/VedantSaikhede/iNeuron_Internship_Project)
+</div>
+
+<div align="right">
+  
+  [**Visualize Data using Amazon QuickSight**](https://github.com/VedantSaikhede/Visualize_Data_using_Amazon_QuickSight)
+  
+</div>
+</div>
+
+
+
+
+
+
 
 
 
