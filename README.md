@@ -3,7 +3,7 @@
 
 <p align="justify">
   
-Hello, I'm Vedant Saikhede, an Information Technology student at Savitribai Phule Pune University with a CGPA of 9.10. Beyond academics, I'm a DevOps and Cloud Enthusiast, Photographer, and Badminton player. Recently, I earned the Microsoft Certified: Azure Fundamentals AZ-900 certification. My internship at iNeuron involved working on a Heart Disease Diagnostic Analysis project, showcasing my skills in Python, Data Analysis, and BI. Proficient in C/C++, Java, Python, AWS, Azure and more, I specialize in Data Structures, Databases, Software Testing, and DevOps Tools..
+Hello, I'm Vedant Saikhede, an Information Technology student at Savitribai Phule Pune University with a **CGPA of 9.10**. Beyond academics, I'm a DevOps and Cloud Enthusiast, Photographer, and Badminton player. Recently, I earned the **Microsoft Certified: Azure Fundamentals AZ-900 certification**. My internship at iNeuron involved working on a Heart Disease Diagnostic Analysis project, showcasing my skills in **Python, Data Analysis, and BI**. Proficient in **C/C++, Java, Python, AWS, Azure** and more, I specialize in Data Structures, Databases, Software Testing, and DevOps Tools..
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
