@@ -54,6 +54,8 @@ An Information Technology student at Shrimati Kashibai Navale College of Enginee
 <img src="https://github.com/VedantSaikhede/VedantSaikhede/assets/112426891/eea60e5c-f970-401a-9c03-cdee0dffafc4" alt="AWS Serverless Badge" width="100">
 <img src="https://github.com/VedantSaikhede/VedantSaikhede/assets/112426891/42df7606-e8db-400a-b562-bcba1d8fdf20" alt="AWS Data Protection Disaster Recovery ****" width="100">
 <img src="https://github.com/VedantSaikhede/VedantSaikhede/assets/112426891/28f1106b-fdae-4bbd-be85-e94122bc6dcb" alt="AWS Cloud Essentials ****" width="100">
+<img src="https://github.com/VedantSaikhede/VedantSaikhede/assets/112426891/6b8ab7b8-3757-4639-ba1d-bcf050824ad5" alt="AWS Cloud Essentials ****" width="100">
+
 
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/vedant-saikhede/badges)
