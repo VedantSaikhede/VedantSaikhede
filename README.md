@@ -3,7 +3,7 @@
 
 <p align="justify">
   
-An Information Technology student at Shrimati Kashibai Navale College of Engineering, Pune with a CGPA of 9.10. Beyond academics, I'm passionate about DevOps, Cloud Computing, and Data Analysis. Recently, I earned the Microsoft Certified: Azure Fundamentals certification and completed internships focusing on Cloud Computing and Data Analytics. My experience includes hands-on projects with AWS, Azure, and GCP, as well as in-depth analysis of datasets using Python and visualization tools like Tableau. I'm proficient in languages like C, C++, Java, and Python, and specialize in Data Structures, Databases, Software Testing, and DevOps Tools. In my free time, I enjoy photography, badminton, and traveling.
+An Information Technology student at Shrimati Kashibai Navale College of Engineering, Pune with a CGPA of 9.10. Beyond academics, I'm passionate about DevOps, Cloud Computing, and Data Analysis. Recently, I earned the Microsoft Certified: Azure Fundamentals certification and completed internships focusing on Cloud Computing and Data Analytics. My experience includes hands-on projects with AWS, Azure, and GCP, as well as in-depth analysis of datasets using Python and visualization tools like Tableau. I'm proficient in languages like C, C++, Java, JavaScript and Python, and specialize in Data Structures, Databases, Software Testing, and DevOps Tools. In my free time, I enjoy photography, badminton, and traveling.
 </p>
 
 <p align="center">
